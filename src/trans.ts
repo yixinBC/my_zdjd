@@ -2,9 +2,9 @@ import { Base64 } from 'js-base64'
 
 const b64 = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ+/='
 
-const leftEye = ['o', '0', 'O', 'Ö'];
+const leftEye = ['o', '0', 'O', '○'];
 const mouth = ['w', 'v', '\.', '_'];
-const rightEye = ['o', '0', 'O', 'Ö'];
+const rightEye = ['o', '0', 'O', '○'];
 const table: string[] = []
 
 const separator = ' ';
